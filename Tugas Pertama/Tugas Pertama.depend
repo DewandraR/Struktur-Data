@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664117825 source:c:\c++ p3\tugas pertama\main.cpp
+	<iostream>
+	<conio.h>
+
